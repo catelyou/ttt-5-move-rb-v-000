@@ -10,6 +10,14 @@ end
 
 def input_to_index(user_input)
   puts "0".to_i
+  puts "1".to_i 
+  puts "2".to_i 
+  puts "3".to_i 
+  puts "4".to_i 
+  puts "5".to_i 
+  puts "6".to_i
+  puts "7".to_i
+  puts "8".to_i 
 end
 
 def move(board, index, character)
