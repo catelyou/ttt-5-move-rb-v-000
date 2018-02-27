@@ -9,15 +9,15 @@ end
 # code your input_to_index and move method here!
 
 def input_to_index(user_input)
-  puts "0".to_i
-  puts "1".to_i
-  puts "2".to_i
-  puts "3".to_i
-  puts "4".to_i
-  puts "5".to_i
-  puts "6".to_i
-  puts "7".to_i
-  puts "8".to_i 
+  puts "0".to_i + 1
+  puts "1".to_i + 1
+  puts "2".to_i + 1
+  puts "3".to_i + 1
+  puts "4".to_i + 1
+  puts "5".to_i + 1
+  puts "6".to_i + 1
+  puts "7".to_i + 1
+  puts "8".to_i + 1
 end
 
 def move(board, index, character)
